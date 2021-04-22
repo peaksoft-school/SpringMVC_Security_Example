@@ -1,7 +1,7 @@
-package jm.security.example.dao;
+package peakoft.dao;
 
-import jm.security.example.model.Role;
-import jm.security.example.model.User;
+import peakoft.model.Role;
+import peakoft.model.User;
 import org.springframework.stereotype.Repository;
 
 import java.util.Collections;

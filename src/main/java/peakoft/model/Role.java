@@ -1,4 +1,4 @@
-package jm.security.example.model;
+package peakoft.model;
 
 import org.springframework.security.core.GrantedAuthority;
 

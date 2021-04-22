@@ -1,4 +1,4 @@
-package jm.security.example.security;
+package peakoft.security;
 
 import org.springframework.security.core.Authentication;
 import org.springframework.security.core.authority.AuthorityUtils;

@@ -1,4 +1,4 @@
-package jm.security.example.security;
+package peakoft.security;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;

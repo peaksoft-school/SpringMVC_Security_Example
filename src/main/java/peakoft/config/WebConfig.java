@@ -1,4 +1,4 @@
-package jm.security.example.config;
+package peakoft.config;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.Bean;
