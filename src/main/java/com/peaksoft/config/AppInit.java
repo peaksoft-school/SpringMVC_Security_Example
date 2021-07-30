@@ -1,4 +1,4 @@
-package peakoft.config;
+package com.peaksoft.config;
 
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
 

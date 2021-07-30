@@ -1,4 +1,4 @@
-package peakoft.security;
+package com.peaksoft.security;
 
 import org.springframework.security.core.Authentication;
 import org.springframework.security.core.authority.AuthorityUtils;

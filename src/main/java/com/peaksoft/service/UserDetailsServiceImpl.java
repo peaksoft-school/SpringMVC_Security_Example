@@ -1,6 +1,6 @@
-package peakoft.service;
+package com.peaksoft.service;
 
-import peakoft.dao.UserDao;
+import com.peaksoft.dao.UserDao;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;

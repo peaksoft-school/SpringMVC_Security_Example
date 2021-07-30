@@ -1,6 +1,6 @@
-package peakoft.dao;
+package com.peaksoft.dao;
 
-import peakoft.model.User;
+import com.peaksoft.model.User;
 
 public interface UserDao {
     User getUserByName(String name);

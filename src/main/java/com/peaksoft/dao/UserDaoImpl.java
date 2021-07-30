@@ -1,7 +1,7 @@
-package peakoft.dao;
+package com.peaksoft.dao;
 
-import peakoft.model.Role;
-import peakoft.model.User;
+import com.peaksoft.model.Role;
+import com.peaksoft.model.User;
 import org.springframework.stereotype.Repository;
 
 import java.util.Collections;

@@ -1,4 +1,4 @@
-package peakoft.model;
+package com.peaksoft.model;
 
 import org.springframework.security.core.GrantedAuthority;
 
